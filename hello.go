@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/manuelmunoz00/hello/numbers"
+	"github.com/manuelmunoz00/packagesgo/numbers"
 
-	"github.com/manuelmunoz00/hello/stringutil"
+	"github.com/manuelmunoz00/packagesgo/stringutil"
 )
 
 func main() {
