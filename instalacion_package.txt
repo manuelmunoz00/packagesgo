@@ -1,0 +1,5 @@
+Luego de crear el package se debe ejecutar el comando "go get" para luego en el archivo
+donde se va invocar el package poder importarlo(ctrl + shift + p) add import.
+
+Luego de ejecutar el comando "go get" los archivos quedan en el directorio
+home/manuel/go/pkg/linux_amd64/github.com/manuelmunoz00
